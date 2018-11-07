@@ -43,30 +43,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Fullstack software engineer, work with passion and determinated to
-      reach the goals, focused on quality, dedicated and self-thought.
-      Worked in all stages of companies from startups to Top Companies,
-      like Ericsson (current job).
+      Software engineer, with +4 years of experience, work with passion and
+      determination to reach the goals, focused on quality, dedicated self-
+      thought. I've worked in the different areas of the web as Backend and
+      frontend, loving both areas, and having more experience as Frontend
+      developer. I like to take challenging and put all my effort to get
+      them done well and with quality.
 
-      Second paragraph if required.
+      I'm happy to work in teams, always with the disposition to help whoever
+      it needs and ask when I have doubts as well, also I like to do
+      integration activities within the team to make the job more enjoyable.
+      
+      Is that passion that got me working in the different stages of companies
+      from startups to Top companies, like Apcera and Ericsson (current job).
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Software Engineering
+      university: Faculty of Mathematics (Universidad Autónoma de Yucatán)
+      time: 2012 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -122,20 +116,15 @@ experiences:
           - Bullet point
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: ECCD Web Admin
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A private web platform which integrates Ericsson services for creating, planing, deploying, destroying, configuring virtual distributed clusters"
+
+      - title: Apcera platform
+        link: "#"
+        tagline: "A web console platform which allows devops or developer users to manage a cluster with applications, services, orchestration and governance"
 
       - title: Tempo
         link: "#"
@@ -149,44 +138,42 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
       - name: HTML5 & CSS
+        level: 98%
+
+      - name: Javascript
         level: 95%
 
+      - name: React + Redux
+        level: 95%
+
+      - name: Angular
+        level: 90%
+        
       - name: Ruby on Rails
-        level: 85%
+        level: 80%
+
+      - name: Node
+        level: 80%
+
+      - name: Jest + Enzyme
+        level: 80%
+
+      - name: Java
+        level: 80%
+
+      - name: MySQL
+        level: 80%
+
+      - name: Express
+        level: 75%
+
+      - name: MongoDB
+        level: 60%
 
       - name: Sketch & Photoshop
         level: 60%
