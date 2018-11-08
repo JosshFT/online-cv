@@ -72,37 +72,45 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Outsourcing - Software Engineer
+      time: March 2017 – Present
+      company: Kwan Tecnología - Apcera, Inc/Ericsson, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Improved project quality by redistributing the structure of the project.
+        Collaborated in the maintenance of web platform that allows devops,
+        developer users, enterprises to manage their clusters with applications,
+        services, orchestration and retrieve reports.
 
-          - Bullet point
-          - Bullet point 
+        Collaborating in the development of a private admin dashboard for Ericsson
+        company, which integrates Ericsson services for creating, planing, deploying,
+        destroying, configuring virtual distributed clusters.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Improving team integration/communication by proposing activities for
+        current members, and guidelines/resources for new members so they can easily
+        incorporate to work.
+
+          - Bigger challenge: Developer leader on a single-web application that
+            connects to different clusters (changing between them as needed) to
+            stream data, process it and retrieve real-time information of how
+            data is processed
+          - Tech Used: MithrilJS, JIRA, SCRUM adaptation, VirtualBox, React + Redux, Webpack, Less, Docker 
+
+    - role: Junior Software Engineer
+      time: July 2016 – March 2017
+      company: Kwan Tecnología, Mexico
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Collaborated in the creation and maintenance of a web application
+        about coupons and promotions of businesses, it had an administration
+        panel for each business. •	Collaborated in the creation and
+        maintenanceof a hybrid mobile application about coupons and
+        promotions of businesses.
 
-          - Bullet point
-          - Bullet point
+          - Bigger challenge: In charge of uploading the application to both
+            AppStore and Play Store on each release, as well as review/renew
+            the proper certificates for that app.
+          - Techs used: Cordova, Angular, XCode, Mongo, Express, Node, JIRA.
 
-    - role: Jr Developer
+    - role: Junior Developer
       time: August 2015 – July 2016
       company: Cubicode, Mexico
       details: |
@@ -125,17 +133,13 @@ projects:
         link: "#"
         tagline: "A web console platform which allows devops or developer users to manage a cluster with applications, services, orchestration and governance"
 
-      - title: Tempo
+      - title: Qpster
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A web/mobile application about coupons and promotions of businesses, it had an administration panel for each business"
 
-      - title: Atom
+      - title: Lillium
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A private web application for a civil association that helps people fight against cancer, the web application controls the medical history from each patient about many areas (Nutrition, Psychology, Rehabilitation, Laboratory, Symptoms, and medical monitoring), and retrieve a monthly report for the doctor that shows the improvement of patients. Those reports will help the doctor to prove that this alternative treatment for cancer works."
 
 skills:
     title: Skills &amp; Proficiency
