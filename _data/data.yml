@@ -102,18 +102,17 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Jr Developer
+      time: August 2015 – July 2016
+      company: Cubicode, Mexico
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Collaborated in the development of several web applications in different
+        areas as Front-end, UX, database design, class diagrams, and Back-end.
+        Developer lead in a project using Ruby on Rails due to quickly develop.
+        Administrator happy with the solution.
 
-          - Bullet point
-          - Bullet point
+          - Bigger challenge: Migrate a DB of Web application from the old version to new one.
+          - Techs used: Zend Framework, MySQL, Astah, Ubuntu, Ruby on Rails, JavaScript, jQuery.
 
 projects:
 
