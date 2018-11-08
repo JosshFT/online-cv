@@ -8,7 +8,7 @@ baseurl: '/online-cv' #change it according to your repository name
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-87629058-2
 
 # Sass/SCSS
 sass:
