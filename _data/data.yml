@@ -77,8 +77,9 @@ experiences:
       company: Kwan Tecnología - Apcera, Inc/Ericsson, San Francisco
       details: |
         Improved project quality by redistributing the structure of the project.
+
         Collaborated in the maintenance of web platform that allows devops,
-        developer users, enterprises to manage their clusters with applications,
+        developer users, enterprises to manage their IT infrastructure with applications,
         services, orchestration and retrieve reports.
 
         Collaborating in the development of a private admin dashboard for Ericsson
@@ -93,6 +94,10 @@ experiences:
             connects to different clusters (changing between them as needed) to
             stream data, process it and retrieve real-time information of how
             data is processed
+          - Tasks: Created high quality and responsive components based on design
+            wireframes, consume API services to feed those components do review
+            to partner's code as well as address comments to my PRs, create project
+            from scratch.
           - Tech Used: MithrilJS, JIRA, SCRUM adaptation, VirtualBox, React + Redux, Webpack, Less, Docker 
 
     - role: Junior Software Engineer
@@ -101,13 +106,17 @@ experiences:
       details: |
         Collaborated in the creation and maintenance of a web application
         about coupons and promotions of businesses, it had an administration
-        panel for each business. •	Collaborated in the creation and
+        panel for each business. Collaborated in the creation and
         maintenanceof a hybrid mobile application about coupons and
         promotions of businesses.
 
           - Bigger challenge: In charge of uploading the application to both
             AppStore and Play Store on each release, as well as review/renew
             the proper certificates for that app.
+          - Tasks: Create high quality and responsive components from scratch,
+            comsuming API services to feed different those component, and I
+            took care of the performance for the mobile app by reducing the
+            requests and optimizing images/icons.
           - Techs used: Cordova, Angular, XCode, Mongo, Express, Node, JIRA.
 
     - role: Junior Developer
@@ -117,9 +126,10 @@ experiences:
         Collaborated in the development of several web applications in different
         areas as Front-end, UX, database design, class diagrams, and Back-end.
         Developer lead in a project using Ruby on Rails due to quickly develop.
-        Administrator happy with the solution.
+        Product owner happy with the solution.
 
           - Bigger challenge: Migrate a DB of Web application from the old version to new one.
+          - Tasks: Ellaborated class diagrams, databases design, screens based on design, endpoints for APIs.
           - Techs used: Zend Framework, MySQL, Astah, Ubuntu, Ruby on Rails, JavaScript, jQuery.
 
 projects:
